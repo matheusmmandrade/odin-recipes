@@ -1,1 +1,1 @@
-# odin-recipes
+# Hi, this is my first project using HTML. This project is about coding a recipe page on Google. Hope you enjoy it and let's code!
